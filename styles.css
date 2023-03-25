@@ -1,0 +1,141 @@
+.the{
+    background-color: rgb(78, 204, 166);
+    height: 655px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -22px;
+}
+.a{
+    
+    position: absolute;
+    bottom: 325px;
+    left: 281px;
+}
+    
+
+.b{
+    
+    position: absolute;
+    right: 395px;
+    bottom: 8px;
+}
+   
+.c{
+
+    position: absolute;
+    top: 65px;
+    right: 320px;
+}
+   .f{
+   /* text-align: center;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    color: rgb(9, 96, 209);
+    position: absolute;
+    top: 94px;
+    right: 433px;
+    right: 550px;
+font-size: 1.5cm;    
+    
+   }
+  .d{
+
+margin-left: -8px;
+margin-right: -8px;
+margin-top: -21px;
+
+  }
+  .r{
+    height: 350px;
+    width: 350px;
+    position: relative;
+    height: 312px;
+    width: 318px;
+    top: 170px;
+    right: -518px;
+}
+.t{
+    font-family: cursive;
+    color: rgb(22, 60, 110);
+    position: relative;
+    top: 195px;
+    right: 2px;
+}
+.z{  height: 250px;
+    width: 250px;
+    position: relative;
+    top: 245px;
+    right: -539px;
+
+   
+}
+  .s{
+    font-family: cursive;
+    color: rgb(22, 60, 110);
+    position: relative;
+    top: 247px;
+    right: 15px;
+  }
+  .rt{
+    color: rgb(22, 60, 110);
+    position: relative;
+    top: 314px;
+    right: -492px;
+    height:350px;
+    width: 350px;
+  }
+  .ab{  font-family: cursive;
+    color: rgb(23, 58, 104);
+    position: relative;
+    top: 303px;
+    right: 20px;
+
+  }
+  .oa{
+    position: relative;
+    top: 13px;
+  }
+  .ob{
+    position: relative;
+    top: 199px;
+  }
+  .oc{
+    position: relative;
+    top: 274px;
+  }
+  .od{
+    position: relative;
+    top: 301px;
+  }
+  .class{
+    background-color: black;
+    color: rgb(239, 243, 243);
+    position: relative;
+    top: 278px;
+    margin-left: -8px;
+    margin-right: -8px;
+  }
+  .im{
+    position: relative;
+    top: auto;
+    position: relative;
+    top: 12px;
+    height: 200px;
+  }
+  .ij{
+            text-decoration: underline;
+            color:rgb(242, 247, 245)
+  }
+  .ad:hover{
+ background-color: rgb(29, 208, 214);
+ 
+  }
+ .kl{
+   height:100px;
+   width:100px;
+   position: relative;
+   top: 59px;
+   right: -22px;
+   border-radius: 100px;
+   position: sticky;
+  }
